@@ -16,4 +16,9 @@ public class Main {
     public void printHelloWorld() {
         System.out.println("Hello, World!");
     }
+
+    public void printHelloFromMikael() {
+        System.out.println("Hello, from Mikael!");
+    }
+
 }
